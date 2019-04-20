@@ -1,1 +1,1 @@
-The binary tree which work. by UnitedTimur (c)
+by UnitedTimur (c) Simple binary tree. Soon will be binary tree in windows forms.
